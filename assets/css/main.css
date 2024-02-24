@@ -1,11 +1,7 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,400italic,700,800");
 
-/*
-	Highlights by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -2252,7 +2248,7 @@ input, select, textarea {
 		}
 
 		.image.left, .image.right {
-			max-width: 40%;
+			max-width: 35%;
 		}
 
 			.image.left img, .image.right img {
@@ -2342,7 +2338,7 @@ input, select, textarea {
 		ul.icons-grid li {
 			display: block;
 			float: left;
-			padding: 3em 0;
+			padding: 1em 0;
 			width: 50%;
 		}
 
